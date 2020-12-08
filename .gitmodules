@@ -1,0 +1,4 @@
+[submodule "ticketapp-ui"]
+	path = ticketapp-ui
+	url = https://github.com/sf-fresher-batch-2020/ticketapp-ui
+	branch = main

@@ -1,0 +1,9 @@
+[submodule "ticketapp-ui"]
+	path = ticketapp-ui
+	url = https://github.com/sf-fresher-batch-2020/ticketapp-ui.git
+[submodule "ticketapp-api"]
+	path = ticketapp-api
+	url = https://github.com/sf-fresher-batch-2020/ticketapp-api.git
+[submodule "ticketapp-angular-ui"]
+	path = ticketapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/ticketapp-angular-ui.git
